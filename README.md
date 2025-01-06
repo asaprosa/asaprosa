@@ -6,7 +6,6 @@
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=asaprosa&label=Profile%20views&color=0e75b6&style=flat" alt="asaprosa" /> </p>
 
 - 🔭 I’m currently working on **AI Trip Planner**
 
