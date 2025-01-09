@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **DevOps**
 
-- 💬 Ask me about **Next.js , React ,Firebase Auth**
+- 💬 Ask me about **Next.js , React , Firebase Auth**
 
 - 📫 How to reach me **adityaaghodke2@gmail.com**
 
